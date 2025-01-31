@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.29-01-2025-Sum", "1.29-01
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.30-01-2025-Beautiful Year", "2.30-01-2025-Beautiful Year\2.30-01-2025-Beautiful Year.csproj", "{F8365825-838F-4EDA-8C2F-CD390E0B210B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31-01-2025 Vlad-and-the-Best-of-Five", "31-01-2025 Vlad-and-the-Best-of-Five\31-01-2025 Vlad-and-the-Best-of-Five.csproj", "{CD730E0C-E2B1-4D1C-8A73-3B6AA92BB2F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F8365825-838F-4EDA-8C2F-CD390E0B210B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8365825-838F-4EDA-8C2F-CD390E0B210B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8365825-838F-4EDA-8C2F-CD390E0B210B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD730E0C-E2B1-4D1C-8A73-3B6AA92BB2F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD730E0C-E2B1-4D1C-8A73-3B6AA92BB2F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD730E0C-E2B1-4D1C-8A73-3B6AA92BB2F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD730E0C-E2B1-4D1C-8A73-3B6AA92BB2F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
